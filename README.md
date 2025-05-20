@@ -2,19 +2,19 @@
 This project focuses on data integration and analysis using MySQL and Eclipse IDE. It involves working with customer transactions, products, and metadata to perform a mesh join operation, followed by OLAP (Online Analytical Processing) queries for in-depth analysis. The goal is to identify trends, generate reports, and gain insights into customer behavior and product performance.
 
 ## Key Objectives
-### Data Loading and Integration
+#### Data Loading and Integration
 Load and preprocess data from CSV files into MySQL and use the mesh join technique to combine transaction data with metadata.
 
-### OLAP Analysis
+#### OLAP Analysis
 Perform trend analysis, revenue analysis, and seasonal analysis using OLAP queries.
 
-### Technology Stack
+#### Technology Stack
 Utilize MySQL for database management, Eclipse IDE for Java development, and JDBC for connectivity.
 
-### Meshjoin Algorithm
+#### Meshjoin Algorithm
 Implement the Meshjoin algorithm to efficiently process large datasets and perform joins in a memory-efficient manner.
 
-### Output
+#### Output
 Store transformed data in a Data Warehouse (DW) and present query results in tabular format for business analysis.
 
 ## Schema Overview
